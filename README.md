@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sina Mohammadi, and I'm passionate about Android programming with Java and Kotlin!<br>It's not just a job for me; it's a genuine love affair with learning and creating amazing things.<br>I get excited about new challenges and opportunities to dive into the world of Android development
+I'm Sina Mohammadi, and I'm passionate about Android programming with Java and Kotlin!<br>It's not just a job for me; it's a genuine love affair with learning and creating amazing things.<br>I get excited about new challenges and opportunities to dive into the world of Android development...
 
 
 # 💻 Tech Stack:
